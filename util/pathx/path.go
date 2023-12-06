@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jager/goctl/vars"
+	"github.com/jageros/goctl/vars"
 )
 
 const (

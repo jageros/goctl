@@ -3,8 +3,8 @@ package greetlogic
 import (
 	"context"
 
-	"github.com/jager/goctl/example/rpc/hello/internal/svc"
-	"github.com/jager/goctl/example/rpc/hello/pb/hello"
+	"github.com/jageros/goctl/example/rpc/hello/internal/svc"
+	"github.com/jageros/goctl/example/rpc/hello/pb/hello"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

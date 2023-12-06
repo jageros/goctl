@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/jager/goctl/pkg/parser/api/ast"
-	"github.com/jager/goctl/pkg/parser/api/placeholder"
+	"github.com/jageros/goctl/pkg/parser/api/ast"
+	"github.com/jageros/goctl/pkg/parser/api/placeholder"
 )
 
 type filterBuilder struct {

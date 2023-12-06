@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/api/parser"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/parser"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 var (

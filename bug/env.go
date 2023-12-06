@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/jager/goctl/internal/version"
+	"github.com/jageros/goctl/internal/version"
 )
 
 type env map[string]string

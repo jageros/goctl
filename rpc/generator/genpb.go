@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jager/goctl/rpc/execx"
+	"github.com/jageros/goctl/rpc/execx"
 )
 
 // GenPb generates the pb.go file, which is a layer of packaging for protoc to generate gprc,

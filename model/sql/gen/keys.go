@@ -5,9 +5,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jager/goctl/model/sql/parser"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/stringx"
+	"github.com/jageros/goctl/model/sql/parser"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 // Key describes cache key

@@ -3,7 +3,7 @@ package ast
 import (
 	"strings"
 
-	"github.com/jager/goctl/api/parser/g4/gen/api"
+	"github.com/jageros/goctl/api/parser/g4/gen/api"
 )
 
 // KvExpr describes key-value for api

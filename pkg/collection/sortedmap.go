@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jager/goctl/util/stringx"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 var (

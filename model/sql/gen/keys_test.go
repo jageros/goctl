@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/jager/goctl/model/sql/parser"
-	"github.com/jager/goctl/util/stringx"
+	"github.com/jageros/goctl/model/sql/parser"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 func TestGenCacheKeys(t *testing.T) {

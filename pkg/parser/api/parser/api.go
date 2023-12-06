@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/lang"
-	"github.com/jager/goctl/pkg/parser/api/ast"
-	"github.com/jager/goctl/pkg/parser/api/importstack"
-	"github.com/jager/goctl/pkg/parser/api/placeholder"
-	"github.com/jager/goctl/pkg/parser/api/token"
+	"github.com/jageros/goctl/pkg/parser/api/ast"
+	"github.com/jageros/goctl/pkg/parser/api/importstack"
+	"github.com/jageros/goctl/pkg/parser/api/placeholder"
+	"github.com/jageros/goctl/pkg/parser/api/token"
 )
 
 // API is the parsed api file.

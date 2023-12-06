@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	eventlogic "github.com/jager/goctl/example/rpc/hi/internal/logic/event"
-	"github.com/jager/goctl/example/rpc/hi/internal/svc"
-	"github.com/jager/goctl/example/rpc/hi/pb/hi"
+	eventlogic "github.com/jageros/goctl/example/rpc/hi/internal/logic/event"
+	"github.com/jageros/goctl/example/rpc/hi/internal/svc"
+	"github.com/jageros/goctl/example/rpc/hi/pb/hi"
 )
 
 type EventServer struct {

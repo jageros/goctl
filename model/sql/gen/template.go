@@ -3,8 +3,8 @@ package gen
 import (
 	"fmt"
 
-	"github.com/jager/goctl/model/sql/template"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/model/sql/template"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const (

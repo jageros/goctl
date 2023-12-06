@@ -1,8 +1,8 @@
 package migrationnotes
 
 import (
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/util/format"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/util/format"
 )
 
 // BeforeCommands run before comamnd run to show some migration notes

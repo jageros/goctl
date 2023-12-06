@@ -7,8 +7,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/jager/goctl/api/spec"
-	"github.com/jager/goctl/api/util"
+	"github.com/jageros/goctl/api/spec"
+	"github.com/jageros/goctl/api/util"
 )
 
 const (

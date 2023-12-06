@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func TestProjectFromGoPath(t *testing.T) {

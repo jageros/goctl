@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const (

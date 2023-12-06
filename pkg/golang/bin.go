@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 // GoBin returns a path of GOBIN.

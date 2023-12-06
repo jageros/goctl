@@ -6,7 +6,7 @@ import (
 
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/api/parser"
+	"github.com/jageros/goctl/api/parser"
 )
 
 // VarStringAPI describes an API.

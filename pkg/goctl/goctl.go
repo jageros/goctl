@@ -4,10 +4,10 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/jager/goctl/pkg/golang"
-	"github.com/jager/goctl/util/console"
-	"github.com/jager/goctl/util/pathx"
-	"github.com/jager/goctl/vars"
+	"github.com/jageros/goctl/pkg/golang"
+	"github.com/jageros/goctl/util/console"
+	"github.com/jageros/goctl/util/pathx"
+	"github.com/jageros/goctl/vars"
 )
 
 func Install(cacheDir, name string, installFn func(dest string) (string, error)) (string, error) {

@@ -1,9 +1,9 @@
 package gen
 
 import (
-	"github.com/jager/goctl/model/sql/template"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/model/sql/template"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func genTableName(table Table) (string, error) {

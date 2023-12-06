@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/zeromicro/antlr"
-	"github.com/jager/goctl/api/parser/g4/gen/api"
-	"github.com/jager/goctl/util/console"
+	"github.com/jageros/goctl/api/parser/g4/gen/api"
+	"github.com/jageros/goctl/util/console"
 )
 
 type (

@@ -3,7 +3,7 @@ package util
 import (
 	"testing"
 
-	"github.com/jager/goctl/test"
+	"github.com/jageros/goctl/test"
 )
 
 func TestIsTemplate(t *testing.T) {

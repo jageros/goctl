@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/zeromicro/go-zero/core/syncx"
-	"github.com/jager/goctl/util/console"
+	"github.com/jageros/goctl/util/console"
 )
 
 func cancelOnSignals() {

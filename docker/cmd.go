@@ -1,6 +1,6 @@
 package docker
 
-import "github.com/jager/goctl/internal/cobrax"
+import "github.com/jageros/goctl/internal/cobrax"
 
 var (
 	varExeName       string

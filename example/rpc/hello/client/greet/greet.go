@@ -6,7 +6,7 @@ package client
 import (
 	"context"
 
-	"github.com/jager/goctl/example/rpc/hello/pb/hello"
+	"github.com/jageros/goctl/example/rpc/hello/pb/hello"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

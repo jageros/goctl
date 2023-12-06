@@ -5,8 +5,8 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/jager/goctl/util/env"
-	"github.com/jager/goctl/vars"
+	"github.com/jageros/goctl/util/env"
+	"github.com/jageros/goctl/vars"
 )
 
 const goproxy = "GOPROXY=https://goproxy.cn,direct"

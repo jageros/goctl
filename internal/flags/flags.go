@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jager/goctl/util"
+	"github.com/jageros/goctl/util"
 )
 
 //go:embed default_en.json

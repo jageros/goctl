@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/api/gogen"
-	conf "github.com/jager/goctl/config"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/gogen"
+	conf "github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 //go:embed api.tpl

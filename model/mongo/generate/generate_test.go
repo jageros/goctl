@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 var testTypes = `

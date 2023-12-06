@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/jager/goctl/util/env"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/env"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func CloneIntoGitHome(url, branch string) (dir string, err error) {

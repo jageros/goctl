@@ -3,8 +3,8 @@ package token
 import (
 	"fmt"
 
-	"github.com/jager/goctl/pkg/parser/api/placeholder"
-	"github.com/jager/goctl/util"
+	"github.com/jageros/goctl/pkg/parser/api/placeholder"
+	"github.com/jageros/goctl/util"
 )
 
 const (

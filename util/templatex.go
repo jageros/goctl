@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"text/template"
 
-	"github.com/jager/goctl/internal/errorx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/internal/errorx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const regularPerm = 0o666

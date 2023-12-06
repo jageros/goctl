@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/collection"
-	"github.com/jager/goctl/model/sql/template"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
-	"github.com/jager/goctl/util/stringx"
+	"github.com/jageros/goctl/model/sql/template"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 func genVars(table Table, withCache, postgreSql bool) (string, error) {

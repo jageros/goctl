@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/rpc/generator"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/rpc/generator"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 var (

@@ -3,8 +3,8 @@ package ast
 import (
 	"strings"
 
-	"github.com/jager/goctl/pkg/parser/api/token"
-	"github.com/jager/goctl/util"
+	"github.com/jageros/goctl/pkg/parser/api/token"
+	"github.com/jageros/goctl/util"
 )
 
 // CommentGroup represents a list of comments.

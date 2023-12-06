@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/compare/testdata"
-	"github.com/jager/goctl/util/console"
+	"github.com/jageros/goctl/compare/testdata"
+	"github.com/jageros/goctl/util/console"
 )
 
 var rootCmd = &cobra.Command{

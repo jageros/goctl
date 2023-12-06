@@ -5,7 +5,7 @@ package name
 import (
 	"strings"
 
-	"github.com/jager/goctl/util/stringx"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 // NamingStyle the type of string

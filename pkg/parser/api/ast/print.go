@@ -7,7 +7,7 @@ import (
 	"os"
 	"reflect"
 
-	apitoken "github.com/jager/goctl/pkg/parser/api/token"
+	apitoken "github.com/jageros/goctl/pkg/parser/api/token"
 )
 
 // A FieldFilter may be provided to Fprint to control the output.

@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"unicode"
 
-	"github.com/jager/goctl/api/parser/g4/ast"
-	"github.com/jager/goctl/api/parser/g4/gen/api"
-	"github.com/jager/goctl/api/spec"
-	"github.com/jager/goctl/pkg/env"
-	apiParser "github.com/jager/goctl/pkg/parser/api/parser"
+	"github.com/jageros/goctl/api/parser/g4/ast"
+	"github.com/jageros/goctl/api/parser/g4/gen/api"
+	"github.com/jageros/goctl/api/spec"
+	"github.com/jageros/goctl/pkg/env"
+	apiParser "github.com/jageros/goctl/pkg/parser/api/parser"
 )
 
 type parser struct {

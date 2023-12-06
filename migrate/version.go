@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jager/goctl/util/console"
+	"github.com/jageros/goctl/util/console"
 )
 
 var client = http.Client{

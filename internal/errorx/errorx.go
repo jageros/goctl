@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jager/goctl/pkg/env"
+	"github.com/jageros/goctl/pkg/env"
 )
 
 var errorFormat = `goctl error: %+v

@@ -3,10 +3,10 @@ package generator
 import (
 	"path/filepath"
 
-	"github.com/jager/goctl/rpc/parser"
-	"github.com/jager/goctl/util/console"
-	"github.com/jager/goctl/util/ctx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/rpc/parser"
+	"github.com/jageros/goctl/util/console"
+	"github.com/jageros/goctl/util/ctx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 type ZRpcContext struct {

@@ -7,7 +7,7 @@ import (
 	"runtime"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/internal/version"
+	"github.com/jageros/goctl/internal/version"
 )
 
 const (

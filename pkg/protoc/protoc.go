@@ -8,12 +8,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/jager/goctl/pkg/downloader"
-	"github.com/jager/goctl/pkg/goctl"
-	"github.com/jager/goctl/rpc/execx"
-	"github.com/jager/goctl/util/env"
-	"github.com/jager/goctl/util/zipx"
-	"github.com/jager/goctl/vars"
+	"github.com/jageros/goctl/pkg/downloader"
+	"github.com/jageros/goctl/pkg/goctl"
+	"github.com/jageros/goctl/rpc/execx"
+	"github.com/jageros/goctl/util/env"
+	"github.com/jageros/goctl/util/zipx"
+	"github.com/jageros/goctl/vars"
 )
 
 var url = map[string]string{

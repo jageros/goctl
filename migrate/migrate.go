@@ -15,8 +15,8 @@ import (
 
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/util/console"
-	"github.com/jager/goctl/util/ctx"
+	"github.com/jageros/goctl/util/console"
+	"github.com/jageros/goctl/util/ctx"
 )
 
 const defaultMigrateVersion = "v1.3.0"

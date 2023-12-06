@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/model/mongo/generate"
-	file "github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/model/mongo/generate"
+	file "github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 var (

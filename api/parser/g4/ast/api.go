@@ -5,7 +5,7 @@ import (
 	"path"
 	"sort"
 
-	"github.com/jager/goctl/api/parser/g4/gen/api"
+	"github.com/jageros/goctl/api/parser/g4/gen/api"
 )
 
 const (

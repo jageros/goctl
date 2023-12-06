@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	"github.com/jager/goctl/util"
+	"github.com/jageros/goctl/util"
 )
 
 // Vars defines a template for var block in model

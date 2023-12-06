@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jager/goctl/rpc/execx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/rpc/execx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const goModuleWithoutGoFiles = "command-line-arguments"

@@ -1,6 +1,6 @@
 package svc
 
-import "github.com/jager/goctl/example/rpc/hello/internal/config"
+import "github.com/jageros/goctl/example/rpc/hello/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

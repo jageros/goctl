@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/jager/goctl/test"
+	"github.com/jageros/goctl/test"
 )
 
 func TestFlags_Get(t *testing.T) {

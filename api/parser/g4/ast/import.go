@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/jager/goctl/api/parser/g4/gen/api"
+	"github.com/jageros/goctl/api/parser/g4/gen/api"
 )
 
 // ImportExpr defines import syntax for api

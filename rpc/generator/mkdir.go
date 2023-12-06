@@ -1,15 +1,15 @@
 package generator
 
 import (
-	"github.com/jager/goctl/util/format"
+	"github.com/jageros/goctl/util/format"
 	"path/filepath"
 	"strings"
 
-	conf "github.com/jager/goctl/config"
-	"github.com/jager/goctl/rpc/parser"
-	"github.com/jager/goctl/util/ctx"
-	"github.com/jager/goctl/util/pathx"
-	"github.com/jager/goctl/util/stringx"
+	conf "github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/rpc/parser"
+	"github.com/jageros/goctl/util/ctx"
+	"github.com/jageros/goctl/util/pathx"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func Test_findPbFile(t *testing.T) {

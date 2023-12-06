@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/jager/goctl/api/spec"
+	"github.com/jageros/goctl/api/spec"
 )
 
 //go:embed testdata/test.api

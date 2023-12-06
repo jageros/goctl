@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/jager/goctl/util"
+	"github.com/jageros/goctl/util"
 )
 
 const (

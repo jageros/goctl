@@ -8,9 +8,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/jager/goctl/model/sql/model"
-	"github.com/jager/goctl/model/sql/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/model/sql/model"
+	"github.com/jageros/goctl/model/sql/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func TestParsePlainText(t *testing.T) {

@@ -8,10 +8,10 @@ import (
 	"text/template"
 
 	"github.com/zeromicro/go-zero/core/collection"
-	"github.com/jager/goctl/api/spec"
-	"github.com/jager/goctl/api/util"
-	"github.com/jager/goctl/pkg/golang"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/spec"
+	"github.com/jageros/goctl/api/util"
+	"github.com/jageros/goctl/pkg/golang"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 type fileGenConfig struct {

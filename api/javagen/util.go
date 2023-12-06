@@ -6,9 +6,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/jager/goctl/api/spec"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/spec"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func writeProperty(writer io.Writer, member spec.Member, indent int) error {

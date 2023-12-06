@@ -13,10 +13,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/api/parser"
-	"github.com/jager/goctl/api/spec"
-	"github.com/jager/goctl/rpc/execx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/parser"
+	"github.com/jageros/goctl/api/spec"
+	"github.com/jageros/goctl/rpc/execx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const pluginArg = "_plugin"

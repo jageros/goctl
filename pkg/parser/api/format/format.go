@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/jager/goctl/pkg/parser/api/parser"
+	"github.com/jageros/goctl/pkg/parser/api/parser"
 )
 
 // File formats the api file.

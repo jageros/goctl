@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jager/goctl/plugin"
+	"github.com/jageros/goctl/plugin"
 )
 
 func main() {

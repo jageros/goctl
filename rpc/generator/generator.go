@@ -3,9 +3,9 @@ package generator
 import (
 	"log"
 
-	conf "github.com/jager/goctl/config"
-	"github.com/jager/goctl/env"
-	"github.com/jager/goctl/util/console"
+	conf "github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/env"
+	"github.com/jageros/goctl/util/console"
 )
 
 // Generator defines the environment needs of rpc service generation

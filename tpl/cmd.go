@@ -1,6 +1,6 @@
 package tpl
 
-import "github.com/jager/goctl/internal/cobrax"
+import "github.com/jageros/goctl/internal/cobrax"
 
 var (
 	varStringHome     string

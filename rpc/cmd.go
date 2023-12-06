@@ -2,9 +2,9 @@ package rpc
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/internal/cobrax"
-	"github.com/jager/goctl/rpc/cli"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/internal/cobrax"
+	"github.com/jageros/goctl/rpc/cli"
 )
 
 var (

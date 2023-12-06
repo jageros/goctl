@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/jager/goctl/api/parser/g4/ast"
-	"github.com/jager/goctl/api/parser/g4/gen/api"
+	"github.com/jageros/goctl/api/parser/g4/ast"
+	"github.com/jageros/goctl/api/parser/g4/gen/api"
 )
 
 var syntaxAccept = func(p *api.ApiParserParser, visitor *ast.ApiVisitor) any {

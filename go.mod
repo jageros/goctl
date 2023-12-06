@@ -1,4 +1,4 @@
-module github.com/jager/goctl
+module github.com/jageros/goctl
 
 go 1.19
 

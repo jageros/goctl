@@ -3,7 +3,7 @@ package spec_test
 import (
 	"fmt"
 
-	"github.com/jager/goctl/api/spec"
+	"github.com/jageros/goctl/api/spec"
 )
 
 func ExampleMember_GetEnumOptions() {

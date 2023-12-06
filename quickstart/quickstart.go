@@ -7,9 +7,9 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/jager/goctl/util/console"
-	"github.com/jager/goctl/util/ctx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/console"
+	"github.com/jageros/goctl/util/ctx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const baseDir = "greet"

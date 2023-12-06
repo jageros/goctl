@@ -4,8 +4,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jager/goctl/util/ctx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/util/ctx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func GetParentPackage(dir string) (string, error) {

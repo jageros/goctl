@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/internal/cobrax"
-	"github.com/jager/goctl/util/ctx"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/internal/cobrax"
+	"github.com/jageros/goctl/util/ctx"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 var (

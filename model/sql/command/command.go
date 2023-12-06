@@ -12,14 +12,14 @@ import (
 	"github.com/zeromicro/go-zero/core/logx"
 	"github.com/zeromicro/go-zero/core/stores/postgres"
 	"github.com/zeromicro/go-zero/core/stores/sqlx"
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/model/sql/command/migrationnotes"
-	"github.com/jager/goctl/model/sql/gen"
-	"github.com/jager/goctl/model/sql/model"
-	"github.com/jager/goctl/model/sql/util"
-	file "github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/console"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/model/sql/command/migrationnotes"
+	"github.com/jageros/goctl/model/sql/gen"
+	"github.com/jageros/goctl/model/sql/model"
+	"github.com/jageros/goctl/model/sql/util"
+	file "github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/console"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 var (

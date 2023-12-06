@@ -2,19 +2,19 @@ package api
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/api/apigen"
-	"github.com/jager/goctl/api/dartgen"
-	"github.com/jager/goctl/api/docgen"
-	"github.com/jager/goctl/api/format"
-	"github.com/jager/goctl/api/gogen"
-	"github.com/jager/goctl/api/javagen"
-	"github.com/jager/goctl/api/ktgen"
-	"github.com/jager/goctl/api/new"
-	"github.com/jager/goctl/api/tsgen"
-	"github.com/jager/goctl/api/validate"
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/internal/cobrax"
-	"github.com/jager/goctl/plugin"
+	"github.com/jageros/goctl/api/apigen"
+	"github.com/jageros/goctl/api/dartgen"
+	"github.com/jageros/goctl/api/docgen"
+	"github.com/jageros/goctl/api/format"
+	"github.com/jageros/goctl/api/gogen"
+	"github.com/jageros/goctl/api/javagen"
+	"github.com/jageros/goctl/api/ktgen"
+	"github.com/jageros/goctl/api/new"
+	"github.com/jageros/goctl/api/tsgen"
+	"github.com/jageros/goctl/api/validate"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/internal/cobrax"
+	"github.com/jageros/goctl/plugin"
 )
 
 var (

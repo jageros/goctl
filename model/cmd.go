@@ -1,9 +1,9 @@
 package model
 
 import (
-	"github.com/jager/goctl/internal/cobrax"
-	"github.com/jager/goctl/model/mongo"
-	"github.com/jager/goctl/model/sql/command"
+	"github.com/jageros/goctl/internal/cobrax"
+	"github.com/jageros/goctl/model/mongo"
+	"github.com/jageros/goctl/model/sql/command"
 )
 
 var (

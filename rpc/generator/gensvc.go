@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"path/filepath"
 
-	conf "github.com/jager/goctl/config"
-	"github.com/jager/goctl/rpc/parser"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/format"
-	"github.com/jager/goctl/util/pathx"
+	conf "github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/rpc/parser"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/format"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 //go:embed svc.tpl

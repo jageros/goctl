@@ -4,11 +4,11 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/jager/goctl/example/rpc/hi/internal/config"
-	eventServer "github.com/jager/goctl/example/rpc/hi/internal/server/event"
-	greetServer "github.com/jager/goctl/example/rpc/hi/internal/server/greet"
-	"github.com/jager/goctl/example/rpc/hi/internal/svc"
-	"github.com/jager/goctl/example/rpc/hi/pb/hi"
+	"github.com/jageros/goctl/example/rpc/hi/internal/config"
+	eventServer "github.com/jageros/goctl/example/rpc/hi/internal/server/event"
+	greetServer "github.com/jageros/goctl/example/rpc/hi/internal/server/greet"
+	"github.com/jageros/goctl/example/rpc/hi/internal/svc"
+	"github.com/jageros/goctl/example/rpc/hi/pb/hi"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"

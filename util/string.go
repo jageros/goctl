@@ -3,7 +3,7 @@ package util
 import (
 	"strings"
 
-	"github.com/jager/goctl/util/console"
+	"github.com/jageros/goctl/util/console"
 )
 
 var goKeyword = map[string]string{

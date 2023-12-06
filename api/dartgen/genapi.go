@@ -5,7 +5,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/jager/goctl/api/spec"
+	"github.com/jageros/goctl/api/spec"
 )
 
 const apiTemplate = `import 'api.dart';

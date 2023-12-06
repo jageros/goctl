@@ -5,7 +5,7 @@ import (
 	"runtime"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/rpc/execx"
+	"github.com/jageros/goctl/rpc/execx"
 )
 
 // upgrade gets the latest goctl by

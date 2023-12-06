@@ -3,8 +3,8 @@ package eventlogic
 import (
 	"context"
 
-	"github.com/jager/goctl/example/rpc/hi/internal/svc"
-	"github.com/jager/goctl/example/rpc/hi/pb/hi"
+	"github.com/jageros/goctl/example/rpc/hi/internal/svc"
+	"github.com/jageros/goctl/example/rpc/hi/pb/hi"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

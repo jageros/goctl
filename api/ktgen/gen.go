@@ -8,7 +8,7 @@ import (
 	"text/template"
 
 	"github.com/iancoleman/strcase"
-	"github.com/jager/goctl/api/spec"
+	"github.com/jageros/goctl/api/spec"
 )
 
 var (

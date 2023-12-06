@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/jager/goctl/api/parser"
+	"github.com/jageros/goctl/api/parser"
 )
 
 var (

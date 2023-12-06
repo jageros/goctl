@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/jager/goctl/pkg/parser/api/ast"
-	"github.com/jager/goctl/pkg/parser/api/scanner"
-	"github.com/jager/goctl/pkg/parser/api/token"
+	"github.com/jageros/goctl/pkg/parser/api/ast"
+	"github.com/jageros/goctl/pkg/parser/api/scanner"
+	"github.com/jageros/goctl/pkg/parser/api/token"
 )
 
 const idAPI = "api"

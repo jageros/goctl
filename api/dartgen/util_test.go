@@ -3,7 +3,7 @@ package dartgen
 import (
 	"testing"
 
-	"github.com/jager/goctl/api/spec"
+	"github.com/jageros/goctl/api/spec"
 )
 
 func Test_getPropertyFromMember(t *testing.T) {

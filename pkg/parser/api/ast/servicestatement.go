@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/jager/goctl/pkg/parser/api/token"
+import "github.com/jageros/goctl/pkg/parser/api/token"
 
 // AtServerStmt represents @server statement.
 type AtServerStmt struct {

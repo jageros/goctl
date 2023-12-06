@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jager/goctl/api/spec"
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/util/format"
-	"github.com/jager/goctl/util/pathx"
-	"github.com/jager/goctl/vars"
+	"github.com/jageros/goctl/api/spec"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/util/format"
+	"github.com/jageros/goctl/util/pathx"
+	"github.com/jageros/goctl/vars"
 )
 
 const contextFilename = "service_context"

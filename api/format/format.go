@@ -13,11 +13,11 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/errorx"
-	"github.com/jager/goctl/api/parser"
-	"github.com/jager/goctl/api/util"
-	"github.com/jager/goctl/pkg/env"
-	apiF "github.com/jager/goctl/pkg/parser/api/format"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/parser"
+	"github.com/jageros/goctl/api/util"
+	"github.com/jageros/goctl/pkg/env"
+	apiF "github.com/jageros/goctl/pkg/parser/api/format"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 const (

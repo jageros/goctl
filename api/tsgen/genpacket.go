@@ -7,10 +7,10 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/jager/goctl/api/spec"
-	apiutil "github.com/jager/goctl/api/util"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/api/spec"
+	apiutil "github.com/jageros/goctl/api/util"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 //go:embed handler.tpl

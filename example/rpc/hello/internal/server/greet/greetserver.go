@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	greetlogic "github.com/jager/goctl/example/rpc/hello/internal/logic/greet"
-	"github.com/jager/goctl/example/rpc/hello/internal/svc"
-	"github.com/jager/goctl/example/rpc/hello/pb/hello"
+	greetlogic "github.com/jageros/goctl/example/rpc/hello/internal/logic/greet"
+	"github.com/jageros/goctl/example/rpc/hello/internal/svc"
+	"github.com/jageros/goctl/example/rpc/hello/pb/hello"
 )
 
 type GreetServer struct {

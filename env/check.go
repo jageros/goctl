@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/jager/goctl/pkg/env"
-	"github.com/jager/goctl/pkg/protoc"
-	"github.com/jager/goctl/pkg/protocgengo"
-	"github.com/jager/goctl/pkg/protocgengogrpc"
-	"github.com/jager/goctl/util/console"
+	"github.com/jageros/goctl/pkg/env"
+	"github.com/jageros/goctl/pkg/protoc"
+	"github.com/jageros/goctl/pkg/protocgengo"
+	"github.com/jageros/goctl/pkg/protocgengogrpc"
+	"github.com/jageros/goctl/util/console"
 )
 
 type bin struct {

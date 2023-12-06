@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jager/goctl/cmd"
+	"github.com/jageros/goctl/cmd"
 	"github.com/zeromicro/go-zero/core/load"
 	"github.com/zeromicro/go-zero/core/logx"
 )

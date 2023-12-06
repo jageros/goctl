@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/jager/goctl/pkg/parser/api/assertx"
-	"github.com/jager/goctl/pkg/parser/api/token"
+	"github.com/jageros/goctl/pkg/parser/api/assertx"
+	"github.com/jageros/goctl/pkg/parser/api/token"
 )
 
 func Test_readData(t *testing.T) {

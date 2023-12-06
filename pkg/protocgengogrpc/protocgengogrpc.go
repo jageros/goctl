@@ -3,10 +3,10 @@ package protocgengogrpc
 import (
 	"strings"
 
-	"github.com/jager/goctl/pkg/goctl"
-	"github.com/jager/goctl/pkg/golang"
-	"github.com/jager/goctl/rpc/execx"
-	"github.com/jager/goctl/util/env"
+	"github.com/jageros/goctl/pkg/goctl"
+	"github.com/jageros/goctl/pkg/golang"
+	"github.com/jageros/goctl/rpc/execx"
+	"github.com/jageros/goctl/util/env"
 )
 
 const (

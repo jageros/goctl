@@ -3,10 +3,10 @@ package gen
 import (
 	"strings"
 
-	"github.com/jager/goctl/model/sql/parser"
-	"github.com/jager/goctl/model/sql/template"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/pathx"
+	"github.com/jageros/goctl/model/sql/parser"
+	"github.com/jageros/goctl/model/sql/template"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/pathx"
 )
 
 func genFields(table Table, fields []*parser.Field) (string, error) {

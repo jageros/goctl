@@ -4,12 +4,12 @@ import (
 	"errors"
 	"path/filepath"
 
-	"github.com/jager/goctl/config"
-	"github.com/jager/goctl/model/mongo/template"
-	"github.com/jager/goctl/util"
-	"github.com/jager/goctl/util/format"
-	"github.com/jager/goctl/util/pathx"
-	"github.com/jager/goctl/util/stringx"
+	"github.com/jageros/goctl/config"
+	"github.com/jageros/goctl/model/mongo/template"
+	"github.com/jageros/goctl/util"
+	"github.com/jageros/goctl/util/format"
+	"github.com/jageros/goctl/util/pathx"
+	"github.com/jageros/goctl/util/stringx"
 )
 
 // Context defines the model generation data what they needs
