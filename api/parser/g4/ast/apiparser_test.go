@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
+	"github.com/jager/goctl/util/pathx"
 )
 
 func Test_ImportCycle(t *testing.T) {

@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/zeromicro/go-zero/tools/goctl/rpc/execx"
-	"github.com/zeromicro/go-zero/tools/goctl/util/console"
-	"github.com/zeromicro/go-zero/tools/goctl/util/ctx"
+	"github.com/jager/goctl/rpc/execx"
+	"github.com/jager/goctl/util/console"
+	"github.com/jager/goctl/util/ctx"
 )
 
 const (

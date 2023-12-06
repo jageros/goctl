@@ -9,11 +9,11 @@ import (
 	"github.com/zeromicro/ddl-parser/parser"
 	"github.com/zeromicro/go-zero/core/collection"
 
-	"github.com/zeromicro/go-zero/tools/goctl/model/sql/converter"
-	"github.com/zeromicro/go-zero/tools/goctl/model/sql/model"
-	"github.com/zeromicro/go-zero/tools/goctl/model/sql/util"
-	"github.com/zeromicro/go-zero/tools/goctl/util/console"
-	"github.com/zeromicro/go-zero/tools/goctl/util/stringx"
+	"github.com/jager/goctl/model/sql/converter"
+	"github.com/jager/goctl/model/sql/model"
+	"github.com/jager/goctl/model/sql/util"
+	"github.com/jager/goctl/util/console"
+	"github.com/jager/goctl/util/stringx"
 )
 
 const (

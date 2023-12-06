@@ -8,12 +8,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/downloader"
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/goctl"
-	"github.com/zeromicro/go-zero/tools/goctl/rpc/execx"
-	"github.com/zeromicro/go-zero/tools/goctl/util/env"
-	"github.com/zeromicro/go-zero/tools/goctl/util/zipx"
-	"github.com/zeromicro/go-zero/tools/goctl/vars"
+	"github.com/jager/goctl/pkg/downloader"
+	"github.com/jager/goctl/pkg/goctl"
+	"github.com/jager/goctl/rpc/execx"
+	"github.com/jager/goctl/util/env"
+	"github.com/jager/goctl/util/zipx"
+	"github.com/jager/goctl/vars"
 )
 
 var url = map[string]string{

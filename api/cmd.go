@@ -2,19 +2,19 @@ package api
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/zeromicro/go-zero/tools/goctl/api/apigen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/dartgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/docgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/format"
-	"github.com/zeromicro/go-zero/tools/goctl/api/gogen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/javagen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/ktgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/new"
-	"github.com/zeromicro/go-zero/tools/goctl/api/tsgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/validate"
-	"github.com/zeromicro/go-zero/tools/goctl/config"
-	"github.com/zeromicro/go-zero/tools/goctl/internal/cobrax"
-	"github.com/zeromicro/go-zero/tools/goctl/plugin"
+	"github.com/jager/goctl/api/apigen"
+	"github.com/jager/goctl/api/dartgen"
+	"github.com/jager/goctl/api/docgen"
+	"github.com/jager/goctl/api/format"
+	"github.com/jager/goctl/api/gogen"
+	"github.com/jager/goctl/api/javagen"
+	"github.com/jager/goctl/api/ktgen"
+	"github.com/jager/goctl/api/new"
+	"github.com/jager/goctl/api/tsgen"
+	"github.com/jager/goctl/api/validate"
+	"github.com/jager/goctl/config"
+	"github.com/jager/goctl/internal/cobrax"
+	"github.com/jager/goctl/plugin"
 )
 
 var (

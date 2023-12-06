@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/zeromicro/go-zero/tools/goctl/rpc/execx"
+	"github.com/jager/goctl/rpc/execx"
 )
 
 var (

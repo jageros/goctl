@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"unicode"
 
-	"github.com/zeromicro/go-zero/tools/goctl/api/parser/g4/ast"
-	"github.com/zeromicro/go-zero/tools/goctl/api/parser/g4/gen/api"
-	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/env"
-	apiParser "github.com/zeromicro/go-zero/tools/goctl/pkg/parser/api/parser"
+	"github.com/jager/goctl/api/parser/g4/ast"
+	"github.com/jager/goctl/api/parser/g4/gen/api"
+	"github.com/jager/goctl/api/spec"
+	"github.com/jager/goctl/pkg/env"
+	apiParser "github.com/jager/goctl/pkg/parser/api/parser"
 )
 
 type parser struct {

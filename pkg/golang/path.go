@@ -4,8 +4,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/util/ctx"
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
+	"github.com/jager/goctl/util/ctx"
+	"github.com/jager/goctl/util/pathx"
 )
 
 func GetParentPackage(dir string) (string, error) {

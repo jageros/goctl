@@ -12,10 +12,10 @@ import (
 	"text/template"
 
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
-	apiutil "github.com/zeromicro/go-zero/tools/goctl/api/util"
-	"github.com/zeromicro/go-zero/tools/goctl/util"
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
+	"github.com/jager/goctl/api/spec"
+	apiutil "github.com/jager/goctl/api/util"
+	"github.com/jager/goctl/util"
+	"github.com/jager/goctl/util/pathx"
 )
 
 const (

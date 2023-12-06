@@ -12,7 +12,7 @@ import (
 	"github.com/zeromicro/go-zero/core/stores/cache"
 	"github.com/zeromicro/go-zero/core/stores/redis"
 	"github.com/zeromicro/go-zero/core/stores/redis/redistest"
-	mocksql "github.com/zeromicro/go-zero/tools/goctl/model/sql/test"
+	mocksql "github.com/jager/goctl/model/sql/test"
 )
 
 func TestStudentModel(t *testing.T) {
